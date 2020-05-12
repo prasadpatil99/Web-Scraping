@@ -16,7 +16,7 @@ def world_derivatives(url):
     changes=[]
     perchngs=[]
     	
-    for i in range(0,1):
+    for i in range(1):
        for body in soup.find_all('tbody'):
           for row in body.find_all('tr'):
              for name in row.find_all('td', attrs={'class':'data-col1'}):
