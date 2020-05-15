@@ -1,7 +1,7 @@
 # Web-Scraping-Yahoo-Finance
 > *Finance data is important to know real time sentiments from market. Extracting multiple <br>
 terms like currencies, world-indices, equity-stocks, market-news etc is essential for this<br>. 
-Approaching yahoo finance website for this titles. <br>
+Approaching yahoo finance website for this titles in this repository.* <br>
 
 ## Dependencies
 ``` sh
