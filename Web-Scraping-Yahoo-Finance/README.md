@@ -14,7 +14,7 @@ $ pip install beautifulsoup4
 $ python Financial-Analysis-Tool.py
 ``` 
 ``` sh
-Enter Requirement
+Enter Derivative Required
 1.Currencies
 2.World Indices
 3.Commodities
@@ -41,13 +41,3 @@ y or n:n
 ## Reference 
 https://stackoverflow.com/q/36242330/ <br>
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-
-######################################################################################################3
-
-# Web-Scraping-Wikipedia
-Scraping wikipedia to obtain results of any topic
-
-## Dependencies
-``` sh
-$ pip install beautifulsoup4
-```
